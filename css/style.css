@@ -1,0 +1,52 @@
+/* &display=swap */
+
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body {
+	font-family: Lato;
+	font-size: 16px;
+	line-height: 26px;
+}
+.wrapper{
+	max-width: 810px;
+	margin: 0px auto;
+}
+.title {
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 60px;
+	margin: 190px 0px 92px 0px;
+}
+.subtitle {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+	margin: 0px 0px 24px 0px;
+}
+.img {
+	margin: 0px 0px 60px 0px;
+}
+.text{
+	margin: 0px 0px 24px 0px;
+	line-height: 26px;
+}
+.list {
+	margin: 0px 0px 24px 0px;
+}
+.citate {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+	margin: 48px 0px 48px 58px;
+}
+/* li {
+	list-style-position:inside;
+} */
+.list {
+	margin-left: 20px;
+}
+.letter {
+	margin-bottom: 4px;
+}
